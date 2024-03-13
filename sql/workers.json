@@ -1,0 +1,67 @@
+[
+  {"name":"Nick",
+  "birthday": "1989-02-15",
+  "level": "Senior",
+  "salary": 5800
+  },
+  {"name":"Sam",
+    "birthday": "1999-10-11",
+    "level": "Middle",
+    "salary": 3100
+  },
+  {"name":"Adrey",
+    "birthday": "2000-11-09",
+    "level": "Junior",
+    "salary": 1200
+  },
+  {"name":"Jack",
+    "birthday": "2002-01-24",
+    "level": "Trainee",
+    "salary": 900
+  },
+  {"name":"Daniel",
+    "birthday": "1996-03-29",
+    "level": "Middle",
+    "salary": 2900
+  },
+  {"name":"Julia",
+    "birthday": "1991-06-05",
+    "level": "Junior",
+    "salary": 1150
+  },
+  {"name":"Vanessa",
+    "birthday": "1997-09-01",
+    "level": "Junior",
+    "salary": 1200
+  },
+  {"name":"Richard",
+    "birthday": "2000-04-30",
+    "level": "Trainee",
+    "salary": 850
+  },
+  {"name":"Edvard",
+    "birthday": "1999-11-16",
+    "level": "Junior",
+    "salary": 1300
+  },
+  {"name":"Susana",
+    "birthday": "1995-07-11",
+    "level": "Senior",
+    "salary": 5600
+  },
+  {"name":"Demian",
+    "birthday": "1989-05-01",
+    "level": "Middle",
+    "salary": 3100
+  },
+  {"name":"Kate",
+    "birthday": "1992-10-04",
+    "level": "Middle",
+    "salary": 3300
+  },
+  {"name":"Stive",
+    "birthday": "1993-03-21",
+    "level": "Middle",
+    "salary": 3200
+  }
+]

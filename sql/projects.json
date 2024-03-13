@@ -1,0 +1,62 @@
+[
+  {
+    "client_id": 1,
+    "start_date": "2021-02-15",
+    "finish_date": "2024-01-12"
+  },
+  {
+    "client_id": 2,
+    "start_date": "2022-05-17",
+    "finish_date": "2023-12-22"
+  },
+  {
+    "client_id": 3,
+    "start_date": "2023-12-09",
+    "finish_date": "2024-02-11"
+  },
+  {
+  "client_id": 3,
+  "start_date": "2023-01-08",
+  "finish_date": "2024-01-08"
+  },
+  {
+    "client_id": 4,
+    "start_date": "2023-06-21",
+    "finish_date": "2024-04-19"
+  },
+  {
+    "client_id": 5,
+    "start_date": "2022-12-12",
+    "finish_date": "2023-12-25"
+  },
+  {
+    "client_id": 6,
+    "start_date": "2023-09-03",
+    "finish_date": "2024-08-14"
+  },
+  {
+    "client_id": 5,
+    "start_date": "2023-09-12",
+    "finish_date": "2024-09-01"
+  },
+  {
+    "client_id": 2,
+    "start_date": "2023-11-19",
+    "finish_date": "2024-03-27"
+  },
+  {
+    "client_id": 1,
+    "start_date": "2023-05-09",
+    "finish_date": "2024-05-08"
+  },
+  {
+    "client_id": 6,
+    "start_date": "2023-05-21",
+    "finish_date": "2024-06-18"
+  },
+  {
+    "client_id": 5,
+    "start_date": "2023-08-30",
+    "finish_date": "2024-11-01"
+  }
+]
